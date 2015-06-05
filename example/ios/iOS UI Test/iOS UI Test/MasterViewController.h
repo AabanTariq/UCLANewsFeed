@@ -7,9 +7,7 @@
 //
 
 //Testing git.
-//Edited From Original Copy
-//Edited Again from Original
-
+// Ali pasted this from original
 #import <UIKit/UIKit.h>
 #import "NIDropDown.h"
 #import "DetailPageViewController.h"
