@@ -7,9 +7,7 @@
 //
 
 //Testing git.
-//Edited From Original Copy
-//Edited from Checked our copy
-
+//Ali added this from checked out edition
 
 #import <UIKit/UIKit.h>
 #import "NIDropDown.h"
